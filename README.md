@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-w-Python
+# Exploratory Data Analysis w Python
